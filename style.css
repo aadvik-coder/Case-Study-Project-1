@@ -1,0 +1,65 @@
+body{
+    font-family: 'Zen Tokyo Zoo', cursive;  
+    background-image: linear-gradient(to right top, #526cff, #2e4dff, #9eadff, #0026ff, #3352ff);
+    
+    
+}
+.header_div{
+    background:white;
+    color: #9eadff;
+    
+}
+.header_div img{
+    width: 100px;
+}
+.header_div h2{
+    font-size: 50px;
+}
+
+.main_div{
+    background: blue;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+    box-shadow: 5px 5px 18px white;
+}
+
+.results{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+.main_div label{
+    color: white;
+}
+.footer_div h4{
+    background: #9eadff;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px #9eadff;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div img{
+    width: 70px;
+}
+.copyright_footer{
+    position:fixed;
+    color: #ff7f14;
+    bottom: 0;
+    width: 100%;
+    background-color:#9eadff;
+    line-height: 3;
+    text-align: center;
+}
